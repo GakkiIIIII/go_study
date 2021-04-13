@@ -14,6 +14,4 @@ func main() {
 	fmt.Scanln(&f)
 	fmt.Scanln(&str)
 	fmt.Scanln(&b)
-
-	fmt.Printf("i = %v  f = %v  str = %v  b = %v\n", i, f, str, b)
 }
